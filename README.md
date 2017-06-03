@@ -1,0 +1,2 @@
+# BintrayTest
+aaaaaaaaaaa
